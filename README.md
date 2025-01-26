@@ -12,7 +12,8 @@
 - **LCD**: GND, 5V, I2C SDA(GPIO 8), I2C SCL(GPIO 9)
 - **BUTTON 1 (고객)**: GND, 5V, 220Ω 저항, GPIO 28
 - **BUTTON 2 (직원)**: GND, 5V, 220Ω 저항, GPIO 29
-  <img width="949" alt="image" src="https://github.com/user-attachments/assets/c7c44f04-2b13-4688-8154-4d3888e024a9" />
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/3bcf95b6-4b17-490c-9825-9753ce6d3ee5" />
+
 
 
 ### 동작 설명
@@ -28,6 +29,8 @@
 
 3. **버튼이 눌리지 않았을 때**:
    - LCD 모니터에 "Current Number" + N을 출력합니다.
+<img width="1156" alt="image" src="https://github.com/user-attachments/assets/b9fcbfa4-903d-486f-9f85-da58fd8bbd96" />
+
 
 ## 소프트웨어 구현
 ### 주요 클래스 및 변수
